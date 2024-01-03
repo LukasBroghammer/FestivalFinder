@@ -1,16 +1,16 @@
-# festival
+Festival Finder App 🎉
 
-A new Flutter project.
+Welcome to Festival Finder, a Flutter application designed to make discovering nearby festivals a breeze! This app utilizes the Geolocation API to find festivals in your proximity and leverages Firebase for seamless data storage.
+Features:
 
-## Getting Started
+🌐 Geolocation Integration: Experience the power of the Geolocation API, allowing Festival Finder to pinpoint festivals near your current location.
 
-This project is a starting point for a Flutter application.
+📅 Comprehensive Festival Listings: Explore a rich array of festivals with details on dates, venues, and event highlights.
 
-A few resources to get you started if this is your first Flutter project:
+Technologies Used:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+🚀 Flutter: Build natively compiled applications for mobile from a single codebase.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🗄️ Firebase: Leverage Firebase for efficient and real-time data storage, ensuring up-to-date festival information.
+
+Important Note: The app currently does not function as intended since the Firebase credentials have expired.
