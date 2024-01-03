@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>979484157264-ttmril98r7ikrv8nk7c0fh88npoig47m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.979484157264-ttmril98r7ikrv8nk7c0fh88npoig47m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQZgCYOTxHZ1Yk5_Dl1uZ_bMpP6J73K94</string>
+	<key>GCM_SENDER_ID</key>
+	<string>979484157264</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.festival</string>
+	<key>PROJECT_ID</key>
+	<string>festivalplaner-9f9aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>festivalplaner-9f9aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:979484157264:ios:8f4325f22b72c4a5f87855</string>
+</dict>
+</plist>
